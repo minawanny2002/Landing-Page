@@ -1,0 +1,49 @@
+@media (min-width: 1024px) {
+    .ukraine{
+        text-align:left;
+        padding-left: 60px;
+    }
+    .social-m
+    {
+        margin-right: 50px;
+    }
+}
+@media (max-width: 980px) {
+    .navbar-custom .search-icon {
+        padding-left: 20px;
+    }
+}
+@media (max-width: 1024px)
+{
+    .home {
+        background: linear-gradient(90deg, #30363D 1.98%, rgba(48, 54, 61, 0.77) 103.12%), url(./../images/2ec6f0e3421319ec75d4fe79ad75a42f.jpeg);
+        /* transform: matrix(-1, 0, 0, 1, 0, 0); */
+        padding: 15px;
+    }
+    .home .container{
+        padding: 0px;
+        margin-top: 25px;
+    }
+    .sec-5-btns{
+        width: 75%;
+        margin: auto;
+        position: relative;
+    }
+
+    .sec-4-card{
+        width: 100%;
+        padding: 20px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+    .sec-4-arrow{
+        display: none;
+        
+    }
+
+}
+
+
+
+
+
