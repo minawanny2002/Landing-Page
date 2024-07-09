@@ -40,6 +40,13 @@
         display: none;
         
     }
+    .sec-9-card-x::after{
+        display: none;
+    }
+    .sec-9-card{
+        width: 100%;
+    }
+
 
 }
 
